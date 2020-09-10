@@ -12,7 +12,7 @@
   "dependencies": {
     "consolidate": "^0.15.1",
     "express": "^4.17.1",
-    "handlebars": "^4.5.2",
+    "handlebars": "^4.5.3",
     "nodemon": "^1.19.4",
     "pug": "^2.0.4"
   }

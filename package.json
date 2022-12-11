@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "consolidate": "^0.15.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "handlebars": "^4.5.2",
     "nodemon": "^1.19.4",
     "pug": "^2.0.4"
